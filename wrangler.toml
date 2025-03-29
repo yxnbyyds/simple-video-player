@@ -1,6 +1,8 @@
 name = "simple-video-player"
 compatibility_date = "2025-03-25"
 compatibility_flags = ["nodejs_compat"]
+ADMIN_PASSWORD = "27816968yx"
+LOGIN_JWT_SECRET_KEY = "qazdfcsexg"
 
 pages_build_output_dir = "dist"
 
