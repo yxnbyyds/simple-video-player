@@ -1,11 +1,9 @@
 name = "simple-video-player"
 compatibility_date = "2025-03-25"
 compatibility_flags = ["nodejs_compat"]
-ADMIN_PASSWORD = "27816968yx"
-LOGIN_JWT_SECRET_KEY = "qazdfcsexg"
 
 pages_build_output_dir = "dist"
 
-#kv_namespaces = [
-#  { binding = "VIDEO_CONFIG", id = "your kv id"}
-#]
+kv_namespaces = [
+  { binding = "VIDEO_CONFIG", id = "8ff52d671937464fbbadc64f5b133cf0"}
+]
